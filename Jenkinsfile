@@ -31,3 +31,4 @@ recordIssues enabledForFailure: true, tool: pmdParser(pattern: '**/target/pmd.xm
 }
 }
 }
+
